@@ -1,10 +1,8 @@
-
-/* Змінні тем (світла — за замовчуванням, темна — через data-theme на <html>)  */
 :root {
     --page-bg: #f8f9fa;
     --container-bg: #ffffff;
     --text: #333333;
-    --heading: #2c3e50;
+    --heading: #7b3fb6;
     --border: #dddddd;
     --card-bg: #f4f6f8;
     --muted: #6c757d;
@@ -20,7 +18,7 @@ html[data-theme="dark"] {
     --page-bg: #0f1216;
     --container-bg: #1a1e24;
     --text: #dde1e6;
-    --heading: #9cc3e8;
+    --heading: #c8a2ff;
     --border: #353b44;
     --card-bg: #232830;
     --muted: #98a2ad;
